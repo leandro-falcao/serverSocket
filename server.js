@@ -1,4 +1,7 @@
+//novidade
 const { log } = require('console')
+//novidade
+
 const express = require('express')
 const app = express()
 
